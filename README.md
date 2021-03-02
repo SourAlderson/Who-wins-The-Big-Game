@@ -40,3 +40,5 @@ Score:
 76.46730 on public data(50%)
 
 75.987667 on private data(50%)
+
+Secured a rank of 39th on the leaderboard.
